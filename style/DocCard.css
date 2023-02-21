@@ -1,0 +1,16 @@
+.doctor-cards-container{
+    display: flex;
+    margin: 13px;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.doctor-cart{
+    display: flex;
+    width: 410px;
+    margin: 8px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
